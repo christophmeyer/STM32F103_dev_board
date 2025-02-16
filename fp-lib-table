@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "additional_3d_models")(type "KiCad")(uri "${KIPRJMOD}/3d_models")(options "")(descr "additional 3d models"))
+)

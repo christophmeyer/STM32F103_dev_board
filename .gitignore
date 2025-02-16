@@ -1,0 +1,6 @@
+fp-info-cache
+.DS_Store
+*.lck
+*auto_saved_files*
+STM32_dev_board-backups
+_autosave*
